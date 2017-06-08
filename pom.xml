@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>ribbon-clien</module>
+        <module>ribbon-client</module>
         <module>ribbon-service</module>
     </modules>
 
